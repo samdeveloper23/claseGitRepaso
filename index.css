@@ -10,3 +10,9 @@ h1 {
 p {
   color: red;
 }
+
+.elemento {
+  display: inline-block;
+  width: calc(50% - 2px);
+  background-color: aliceblue;
+}
