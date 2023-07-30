@@ -5,3 +5,7 @@ const app = () => {
 const olvido = () => {
     return 'que despiste';
 };
+
+const cambio = () => {
+    console.log('VAMO A CAMBIA');
+};
